@@ -1,4 +1,4 @@
-# 💫 Hi 👋, MD Almas Ali
+# 💫 Hi 👋, It's MD Almas Ali
 **A passionate Computer Engineer || From Bangladesh**
 
 Email Me 👉 ✉️ **sy164425@gmail.com** For Collaboration/Project or Anything Else. 😊😊
