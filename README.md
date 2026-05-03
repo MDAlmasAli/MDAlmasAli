@@ -16,6 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=MDAlmasAli&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -148,8 +152,13 @@ final developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDAlmasAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDAlmasAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MDAlmasAli&theme=dracula" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MDAlmasAli&theme=dracula" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MDAlmasAli&theme=dracula" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MDAlmasAli&theme=dracula" width="98%"/>
 </p>
 
 <p align="center">
@@ -169,7 +178,7 @@ final developer = {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDAlmasAli&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDAlmasAli&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -179,12 +188,6 @@ final developer = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-</div>
 
 ---
 
