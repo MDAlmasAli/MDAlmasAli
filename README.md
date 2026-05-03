@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Almas%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Computer%20Engineer%20%7C%20Bangladesh&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14&height=180&section=header&text=MD%20Almas%20Ali&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Computer%20Engineer%20%7C%20Bangladesh&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -148,12 +148,12 @@ final developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDAlmasAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDAlmasAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MDAlmasAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=1800" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDAlmasAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MDAlmasAli&theme=dark&hide_border=false" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=MDAlmasAli&theme=dark&hide_border=false" width="60%"/>
 </p>
 
 ---
@@ -166,10 +166,10 @@ final developer = {
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MDAlmasAli&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDAlmasAli&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -195,5 +195,5 @@ final developer = {
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14&height=100&section=footer" width="100%"/>
 </div>
